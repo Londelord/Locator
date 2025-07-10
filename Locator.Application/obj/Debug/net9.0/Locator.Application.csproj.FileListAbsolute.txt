@@ -1,0 +1,12 @@
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\bin\Debug\net9.0\Locator.Application.deps.json
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\bin\Debug\net9.0\Locator.Application.dll
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\bin\Debug\net9.0\Locator.Application.pdb
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Locator.Application.csproj.AssemblyReference.cache
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Locator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Locator.Application.AssemblyInfoInputs.cache
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Locator.Application.AssemblyInfo.cs
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Locator.Application.csproj.CoreCompileInputs.cache
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Locator.Application.dll
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\refint\Locator.Application.dll
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Locator.Application.pdb
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\ref\Locator.Application.dll

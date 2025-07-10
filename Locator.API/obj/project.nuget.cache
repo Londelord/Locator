@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "TauriMHa0k4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\londelord\\RiderProjects\\Locator\\Locator.API\\Locator.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\londelord\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.0\\microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\nettopologysuite\\2.6.0\\nettopologysuite.2.6.0.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\projnet\\2.0.0\\projnet.2.0.0.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\sharpkml.core\\6.1.0\\sharpkml.core.6.1.0.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\swashbuckle.aspnetcore\\9.0.1\\swashbuckle.aspnetcore.9.0.1.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.1\\swashbuckle.aspnetcore.swagger.9.0.1.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.1\\swashbuckle.aspnetcore.swaggergen.9.0.1.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.1\\swashbuckle.aspnetcore.swaggerui.9.0.1.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

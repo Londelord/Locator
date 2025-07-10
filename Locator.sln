@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locator.API", "Locator.API\Locator.API.csproj", "{DF109C41-B103-46B9-AF3D-B3DB2BF2FEEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3551312E-3C9F-40B3-9877-1AF814B8993B}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locator.Application", "Locator.Application\Locator.Application.csproj", "{4FD2BB00-E3E7-4D44-8C85-D0B9A935955D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF109C41-B103-46B9-AF3D-B3DB2BF2FEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF109C41-B103-46B9-AF3D-B3DB2BF2FEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF109C41-B103-46B9-AF3D-B3DB2BF2FEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF109C41-B103-46B9-AF3D-B3DB2BF2FEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD2BB00-E3E7-4D44-8C85-D0B9A935955D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD2BB00-E3E7-4D44-8C85-D0B9A935955D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD2BB00-E3E7-4D44-8C85-D0B9A935955D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD2BB00-E3E7-4D44-8C85-D0B9A935955D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "q6GrUIwQfXM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\londelord\\RiderProjects\\Locator\\Locator.Application\\Locator.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\londelord\\.nuget\\packages\\nettopologysuite\\2.6.0\\nettopologysuite.2.6.0.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\projnet\\2.0.0\\projnet.2.0.0.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\sharpkml.core\\6.1.0\\sharpkml.core.6.1.0.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\londelord\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
