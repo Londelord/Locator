@@ -39,3 +39,4 @@ C:\Users\londelord\RiderProjects\Locator\Locator.API\obj\Debug\net9.0\refint\Loc
 C:\Users\londelord\RiderProjects\Locator\Locator.API\obj\Debug\net9.0\Locator.API.pdb
 C:\Users\londelord\RiderProjects\Locator\Locator.API\obj\Debug\net9.0\Locator.API.genruntimeconfig.cache
 C:\Users\londelord\RiderProjects\Locator\Locator.API\obj\Debug\net9.0\ref\Locator.API.dll
+C:\Users\londelord\RiderProjects\Locator\Locator.API\obj\Debug\net9.0\Locator.API.sourcelink.json

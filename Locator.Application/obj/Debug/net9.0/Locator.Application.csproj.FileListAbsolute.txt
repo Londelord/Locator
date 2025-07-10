@@ -10,3 +10,4 @@ C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Lo
 C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\refint\Locator.Application.dll
 C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Locator.Application.pdb
 C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\ref\Locator.Application.dll
+C:\Users\londelord\RiderProjects\Locator\Locator.Application\obj\Debug\net9.0\Locator.Application.sourcelink.json
